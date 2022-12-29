@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jibinkj-07
 - 👀 I’m interested in web development, andorid application development, designing..
-- 🌱 I’m currently learning Mtech
+- 🌱 Still learning....
 - 📫 How to reach me Mail me
 
 <!---
