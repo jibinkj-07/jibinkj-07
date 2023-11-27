@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jibinkj-07
-- 👀 I’m interested in web development, andorid application development, designing..
+- 👀 Flutter Developer
 - 🌱 Still learning....
 - 📫 How to reach me Mail me
 
