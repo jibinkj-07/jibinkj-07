@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack fo
 
 ### 🌟 Featured Projects
 
+- **SpendWise:** A web app for expense management and tracking.
 - **Bingo Madness:** A classic pen and paper game in digital form.
 - **Chitchat:** Real time chat app with firebase.
 - **Notify:** A smart reminder app.
