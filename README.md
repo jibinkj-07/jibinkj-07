@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer with a knack fo
 - 💬 **Ask me about:** Flutter, React, Node, mobile app development, and responsive design.
 - ⚡ **Fun fact:** When I'm not coding, I love exploring new tech gadgets and playing video games.
 - 📫 **How to reach me:**</br>
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jibin_k__john) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/jibin-k-john-35a468270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jibinkunnumpurath@gmail.com) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jibin_k__john) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibin-k-john-35a468270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jibinkunnumpurath@gmail.com) 
 
 ## 🛠️ My Tech Stack
 
