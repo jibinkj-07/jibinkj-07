@@ -33,4 +33,4 @@ I specialize in Flutter and modern JavaScript ecosystems, and I focus heavily on
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jibin_k__john)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jibinkunnumpurath@gmail.com)
 
-Feel free to connect with me and explore my work. Let's build something amazing together!!!
+Feel free to connect with me and explore my work. Let's build something amazing together!
